@@ -1,11 +1,5 @@
 Config = {}
 
-
-Config.BlipSprite = 100
-Config.BlipScale = 0.6
-Config.BlipName = 'Car Wash'
-
-
 Config.Blips = {
     [1] = {["x"] = -698.9388, ["y"] = -931.9453, ["z"] = 77.9189, ["id"] = 100, ["color"] = 0, ["scale"] = 0.5, ["text"] = "Car Washer"},
     [2] = {["x"] = 24.9860, ["y"] = -1392.2036, ["z"] = 29.3339, ["id"] = 100, ["color"] = 0, ["scale"] = 0.5, ["text"] = "Car Washer"},
